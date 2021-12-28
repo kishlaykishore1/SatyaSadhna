@@ -1,0 +1,18 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'SatyaSadhna' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for SatyaSadhna
+pod 'DGActivityIndicatorView'
+pod 'Google/SignIn'
+pod 'SDWebImage', '~>3.8'
+pod "youtube-ios-player-helper", "~> 0.1.4"
+pod 'GoogleMaps'
+pod 'GooglePlaces'
+pod 'GoogleAnalytics'
+pod 'Google/Analytics'
+pod 'Firebase/Core'
+end

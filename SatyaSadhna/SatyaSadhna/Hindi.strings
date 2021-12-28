@@ -1,0 +1,302 @@
+/* 
+  Hindi.strings
+  SatyaSadhna
+
+  Created by Roshan Bisht on 01/07/17.
+  Copyright © 2017 Roshan Singh Bisht. All rights reserved.
+*/
+// Dashbaord
+"Dashboard"="प्रमुख पृष्ठर्ड";
+"HOME"="मुख्य पृष्ठ";
+" Satya Sadhna "="सत्य साधना";
+"Satya Sadhna"="सत्य साधना ध्यान";
+"Acharyaji" = "आचार्यजी";
+"Registration" = "पंजीकरण";
+"Appointment"="नियुक्ति";
+"Pravachan" = "प्रवचन";
+"Events"="आयोजन";
+"Newsletter"="समाचार पत्र";
+"Donate Now"="अभी दान कीजिए";
+"Gallery"="गैलरी";
+"Post"="पोस्ट";
+"Tracks & Songs"="निर्देश और भजन";
+"Youtube" = "यूट्यूब";
+"YouTube" = "यूट्यूब";
+"Latest News" = "ताज़ा खबर";
+"No Books Available" = "कोई किताब उपलब्ध नहीं हैं";
+// Slide view
+"Profile"="प्रोफाइल";
+"Kushlayatan"="कुशलायतन";
+"Publications"="प्रकाशन";
+"Contact Us"="संपर्क करें";
+"Quotation"="उद्धरण";
+"Terms & Conditions"="नियम एवं शर्तें";
+"Share"="शेयर";
+"Logout"="लोग आउट";
+"   Vision"= "   दृष्टि";
+"   Kushal Vidyapeeth"="   कुशल विद्या पीठ";
+"   Kushal Aushadhalay"="   कुशल औषधालय";
+"   VidyaPeeth"="   विद्यापाठ";
+"   Aushadhalay"="   औषधालय";
+"   Introduction"="   परिचय";
+"   Guidelines"="   दिशानिर्देश";
+"   Courses"="   शिविर";
+"   Who is Teaching?"="   कौन सिखाता है?";
+"   SatyaSadhna for Children"="   बच्चे और सत्य साधना";
+"   Gypsy Courses"="   जिप्सी कोर्सेज";
+"   One Day Course"="   एक दिवसीय शिविर";
+"   After the Course"="   शिविर के बाद";
+"   Tracks"="   निर्देश";
+"   Introductory Session"="   परिचय सभाऐ";
+"   Question and Answer with Guru Ji"="   गुरु जी के साथ प्रश्न और उत्तर";
+"   Experience"="   अनुभव";
+"   Books" = "   किताबें";
+"   Brochure"="   विवरण पत्र";
+"   NewsLetter"="   मासिक-पत्र";
+"   Nal" = "   नाल";
+"   Bikaner" = "   बीकानेर";
+"   Kolkata" = "   कोलकाता";
+"   Mehndipur" = "   महिंदपुर";
+"   Query" = "   पूछताछ";
+
+// Satya Sadhna Meditation
+"Introduction"="परिचय";
+"Guidelines"="दिशा निर्देश";
+"Courses"="शिविर";
+"After the Course"="शिविर के बाद";
+"Tracks"="निर्देश";
+"Introductory Session"="परिचय सभाऐ";
+"Question and Answer with Guru Ji"="गुरु जी के साथ प्रश्न और उत्तर";
+"Experience"="अनुभव";
+"Who is Teaching?"="कौन सिखाता है?";
+"SatyaSadhna for Children"="बच्चे और सत्य साधना";
+"Gypsy Courses"="जिप्सी कोर्सेज";
+"One Day Course"="एक दिवसीय शिविर";
+"Brochure"="विवरण पत्र";
+
+// Courses Screen
+"Join Old Student" = "पुराने छात्र पंजीकृत करें";
+"Join New Student" = "नए छात्र पंजीकृत करें";
+"Apply" = "आवेदन करें";
+
+// Track Screen
+"Children" = "बालक-बालिकाएं";
+"New Student" = "नए साधक";
+"Old Student"= "पुराने साधक";
+
+// QA Screen
+"Ask a Question" = "प्रश्न पूछें";
+"Ask" = "प्रश्न पूछो";
+"Cancel" = "रद्द करना";
+"Enter your Question..." = "अपना प्रश्न दर्ज करें";
+"Please enter your related query first." = "कृपया अपनी संबंधित क्वेरी पहले दर्ज करें।";
+"OK" ="ठीक";
+"Your question has been submitted." = "आपका सवाल भेज दिया गया है।";
+"Error" = "रुटि";
+"Success" = "सफलता";
+
+// Appointment Screen
+
+"Jin Chandra Suri Maharaj" = "जिन चन्द्र सूरी महाराज";
+"Surendra Daga" = "सुरेंद्र डागा";
+"Shalini Lodha" = "शालिनी लोढा";
+"Vikas Chopra" = "विकास चोपड़ा";
+"Name" = "नाम";
+"Phone" = "फ़ोन";
+"Appointment With" = "इनके साथ अपॉइंटमेंट";
+" Appointment Reason" = "नियुक्ति का कारण";
+"Submit" = "जमा करें";
+"Please fill all fields." = "कृपया सभी स्थाान भरे।";
+"Alert" = "चेतावनी";
+"Thanks for scheduling appointment. We will get back to you ASAP." = "नियुक्ति निर्धारण के लिए धन्यवाद। हम जल्द से जल्द आपके पास वापस लौटेंगे।";
+
+"Live Events" = "सजीव कार्यक्रम";
+"Click on year to check out news letter" = "समाचार पत्र को देखने के लिए वर्ष पर क्लिक करें";
+"Click on Month to check out news letter" = "समाचार पत्र को देखने के लिए महीने पर क्लिक करें";
+
+"Bank Details" = "बैंक विवरण";
+"Satyam Shodh Sansthan" = "सत्यम शोध संस्थान";
+"INFORMATION" = "जानकारी";
+"BANK DETAILS" =  "बैंक विवरण";
+
+"Bank Name" = "बैंक का नाम";
+"Bank Account No." = "बैंक खाता नम्बर।";
+"IFSC Code" = "आईएफएससी कोड";
+"Branch Name" = "शाखा का नाम";
+"Donation Form" = "दान फॉर्म";
+"Cash" = "कैश";
+"Cheque" = "चेक";
+"Online Transfer" = "ऑनलाइन हस्तांतरण";
+"Other" = "अन्य";
+"Address" = "पता";
+"Email" = "ईमेल";
+"PAN No." = "पैन नंबर";
+"Pan No"="पैन नंबर";
+"Amount"="आंकड़ा में कुल राशि";
+"Amount in Word"="शब्दों में कुल राशि";
+"Contact No"="संपर्क नंबर";
+"Payment Type"="भुगतान का प्रकार";
+"How much like to Donate." = "आप कितना दान करना चाहते हैं";
+"Payment-Mode" = "भुगतान का प्रकार";
+"Please enter valid Email Id." = "कृपया मान्य ईमेल आईडी दर्ज करें";
+"Please enter valid Phone no." = "कृपया वैध फ़ोन नंबर दर्ज करें";
+"Empty Values" = "रिक्त मान";
+"Email Error" = "ईमेल त्रुटि";
+"Phone No Error" = "फोन नहीं त्रुटि";
+"Your form has been submitted successfully." = "आपका फ़ॉर्म सफलतापूर्वक सबमिट किया गया है";
+"Donate" = "दान करना";
+"Gallery" = "गैलरी";//तस्वीर
+"Archived"="संग्रह";
+
+
+
+
+
+"Vision"= "दृष्टि";
+"VidyaPeeth"="विद्यापाठ";
+"Aushadhalay"="औषधालय";
+"Kushal Vidyapeeth"="कुशल विद्या पीठ";
+"Kushal Aushadhalay"="कुशल औषधालय";
+"Books" = "किताबें";
+"Tracks" = "निर्देश";
+"Songs" = "भजन";
+"Nal" = "नाल";
+"Bikaner" = "बीकानेर";
+"Kolkata" = "कोलकाता";
+"Mehndipur" = "महिंदपुर";
+"Query" = "पूछताछ";
+"Subject" = "विषय";
+" Message" = " संदेश";
+"Please enter your name." = "अपना नाम दर्ज करें।";
+"Please enter your email-id." = "कृपया अपना ईमेल-आईडी दर्ज करें।";
+"Please enter the subject." =  "कृपया विषय डालें।";
+"Please enter message."  = "कृपया संदेश दर्ज करें।";
+"Your query has been submitted successfully." = "आपकी क्वेरी सफलतापूर्वक सबमिट की गई है।";
+"FAQ" = "सामान्य प्रश्न";
+"Logout?" = "बाहर जाना संमाप्त?";
+"Do you want to logout?" = "क्या आप वाकई ऐप बंद करना चाहते हैं?";
+"Are you an old student?" = "क्या आप एक पुराने छात्र हैं?";
+"Yes" = "हाँ";
+"No" = "नहीं";
+
+"Date of Birth" = "जन्म की तारीख";
+"Age" = "आयु";
+"Marital Status"  = "वैवाहिक स्थिति";
+"Father / Husband's Name" = "पिता / पति का नाम";
+"Education" ="शिक्षा";
+"Mobile" = "मोबाइल";
+"Mother Tounge" = "मातृ भाषा";
+"Address (Street, City, State)" = "पता (स्ट्रीट, शहर, राज्य)";
+"Pin Code" = "पिन कोड";
+"Native Country" = "पिन कोड";
+"Designation" = "पद";
+"Department" = "विभाग";
+"Company's Name" = "कंपनी का नाम";
+"Office Address (Street, City, State)" = "कार्यालय का पता (स्ट्रीट, शहर, राज्य)";
+"Save & Continue" = "सहेजें और जारी रखें";
+"Professional Details" = "व्यावसायिक विवरण";
+"Other languages you understand well" = "अन्य भाषाओं में आप अच्छी तरह से समझते हैं";
+"Gender" = "लिंग";
+"Male" = "पुरुष";
+"Female" = "महिला";
+"Hindi" = "हिंदी";
+"English" = "अंग्रेज़ी";
+
+"Single" = "अविवाहित";
+"Married"= "शादी हो ग";
+"Widower"= "विदुर";
+"Widow"= "विधवा";
+"Seprated"= "अलग किए";
+"Divorced"= "तलाकशुदा";
+"Exit" = "बाहर जाएं";
+"Do you want to cancel the Registration?" = "क्या आप वाकई आवेदन रद्द करना चाहते हैं?";
+"Please fill all fields." = "कृपया सभी स्थाान भरे।";
+"Please enter correct Email Id." = "कृपया सही ईमेल आईडी दर्ज करें";
+"Please enter correct mobile no." = "कृपया सही मोबाइल नंबर दर्ज करें";
+"Please enter correct phone no."  = "कृपया सही फ़ोन नंबर दर्ज करें";
+"Please enter your gender." = "कृपया अपना लिंग दर्ज करें";
+"Please enter age above 5." = "कृपया 5 से ऊपर उम्र दर्ज करें";
+"Native Country" = "मातृभूमि";
+
+"Relation"= "रिश्ता";
+"In Past"= "अतीत में";
+"In Present"= "वर्तमान में";
+"Medicine Name"= "चिकित्सा नाम";
+"Medicine Dose"= "चिकित्सा खुराक";
+"How did you learn about the course?"= "आप कोर्स के बारे में कैसे जानें?";
+"Next"= "अगला";
+"Previous"= "पिछला";
+"Doctor's name"="डॉक्टर का नाम";
+"Doctor's mobile number"="डॉक्टर का मोबाइल नंबर";
+"Please Select Your Psychological Fitness Certificate From Doctor"="कृपया डॉक्टर से अपने मनोवैज्ञानिक फिटनेस प्रमाणपत्र का चयन करें";
+"Please Select Your Physical Fitness Certificate From Doctor"="कृपया डॉक्टर से अपने शारीरिक स्वास्थ्य प्रमाणपत्र का चयन करें";
+"Is any know person attending this coure with you?"= "क्या कोई भी व्यक्ति आपके साथ इस युगल में भाग लेता है?";
+"Has anyone in the family done a course?"= "परिवार में किसी ने एक कोर्स किया है?";
+"Any physical aliment (use separet ,if needed)?"= "कोई भी शारीरिक आहार (यदि आवश्यकता हो तो सीपेट का उपयोग करें)?";
+"Any psychological aliment/addiction (Give details on seprate sheet)?"= "कोई मनोवैज्ञानिक आहार / व्यसन (सीपेट शीट पर जानकारी दें)?";
+"if yes, kindly bring a fitness cerificate from doctor."= "यदि हां, तो कृपया अपने चिकित्सक से फिटनेस प्रमाण पत्र लाएं।";
+"if taking any medicine regularly have you bought it with you."= "यदि कोई दवा नियमित रूप से ले रही है तो आप इसे अपने साथ लाया है?";
+"Brief personal background Aim of joining the course ( present mental state, any special incident,family,social background etc.)"= "संक्षिप्त व्यक्तिगत पृष्ठभूमि पाठ्यक्रम में शामिल होने का उद्देश्य (वर्तमान मानसिक स्थिति, किसी विशेष घटना, परिवार / सामाजिक पृष्ठभूमि, आदि)";
+
+"10-Day" = "10 दिन";
+"20-Day" = "20 दिन";
+"30-Day"= "30 दिन";
+"50-Day"= "50 दिन";
+"60-Day"= "60 दिन";
+"Self-Course"= "स्व कोर्स";
+"Service"= "सर्विस";
+"Life-Style"= "लाइफ स्टाइल";
+"Inter-personal relations"= "अंतर्वैयक्तिक सम्बन्ध";
+"Use of intoxicants"= "मादक पदार्थों का प्रयोग";
+"Physical and mental health"= "शारीरिक और मानसिक स्वास्थ्य";
+"any other"= "कोई दूसरा";
+"How many hours a daily?" = "दैनिक कितने घंटे?";
+"No.Of Times Attended 10 Days Course" = "आपने कितने बार 10 दिन का कोर्स किया है";
+"No.Of Times Attended 20 Days Course" = "आपने कितने बार 20 दिन का कोर्स किया है";
+"No.Of Times Attended 30 Days Course" = "आपने कितने बार 30 दिन का कोर्स किया है";
+"No.Of Times Attended 50 Days Course" = "आपने कितने बार 50 दिन का कोर्स किया है";
+"No.Of Times Attended 60 Days Course" = "आपने कितने बार 60 दिन का कोर्स किया है";
+"No. Of  Self Course Practiced" = "प्रैक्टिस किए गए सेल्फ कोर्स की संख्या";
+"Services Done" = "सेवाएं पूरी हुईं";
+"What else did you practice?"="आपने और क्या अभ्यास किया?";
+"Total No. Of Courses(Total shivir)" = "पाठ्यक्रम की कुल संख्या (कुल शिविर)";
+"Have you tried any other practice since the last course?"= "क्या आपने अंतिम कोर्स के बाद से किसी अन्य अभ्यास की कोशिश की है?";
+"Do you practice the techniques regularly?"= "क्या आप नियमित रूप से तकनीक का अभ्यास करते हैं?";
+"Last Course"= "अंतिम कोर्स";
+"Course Details"= "पाठ्यक्रम विवरण";
+"Last Course"= "अंतिम कोर्स";
+"First Course"= "पहला कोर्स";
+"Date First Course"= "दिनांक प्रथम कोर्स";
+
+"First Place"= "प्रथम स्थान";
+"Conducting Asst. Teacher"= "सहायक का संचालन अध्यापक";
+
+"Date Last Course"= "दिनांक अंतिम कोर्स";
+"Last Place"= "आखरी जगह";
+"Course Duration" = "कोर्स की अवधि";
+"Courses"= "शिविर";
+"How many hours daily?"= "कितने घंटे रोज?";
+"What chnages have you noticed in yourself by the practice of meditation?"= "दैनिक कितने घंटे? ध्यान के अभ्यास से आप अपने आप में किस चीज का ध्यान रखते हैं?";
+"Select"= "चुनते हैं";
+"Please check your practice if you do or else select no." = "कृपया अपना अभ्यास जांचें यदि आप करते हैं या फिर कोई नहीं चुनें";
+"Please check hours under 24." = "24 घंटे के भीतर घंटे की जांच करें";
+"End date cannot be greater than start date." = "समाप्ति तिथि प्रारंभ तिथि से अधिक नहीं हो सकती।";
+"if No, what is the reason?" = "यदि नहीं, तो इसका कारण क्या है?";
+
+"Satya Sadhna Date(From - To)" = "सत्य साधना दिनांक (से - से)";
+"Yes, I have understood all rules and I am prepared to strictly follw the time-table, rules till during and end of the stay. i will strictly keep away from any other type of meditation, rites, rituals, fasting, recitation of mantras and prayers and refrain from keeping any relegious / spiritual objects, as well as from all types of intoxicants & drugs for the entire duration of the stay." = "हां, मैं सभी नियमों को समझता हूं और समय-सारणी का सख्ती से पालन करने के लिए तैयार हूं, नियमों के दौरान और रहने के अंत तक। मैं सख्ती से किसी भी अन्य प्रकार के ध्यान, संस्कार, अनुष्ठानों, उपवास, मंत्रों की प्रार्थना और प्रार्थना से दूर रहूंगा और किसी भी धार्मिक / आध्यात्मिक वस्तुओं को रखने से रोकूंगा, साथ ही रहने की पूरी अवधि के लिए सभी प्रकार के मादक पदार्थों और नशीले पदार्थों से ।";
+"Select Course Duration" = "कोर्स अवधि चुनें";
+"Do you want to cancel the Registration?" = "क्या आप वाकई आवेदन रद्द करना चाहते हैं?";
+"please select the course duration." = "कृपया पाठ्यक्रम की अवधि चुनें।";
+"please accept the terms and coditions first." = "कृपया पहले नियम और संहिताओं को स्वीकार करें।";
+"Your form has been submitted successfully." = "आपका फ़ॉर्म सफलतापूर्वक सबमिट किया गया है।";
+"< Previous"= "< पिछला";
+"Preview"="पूर्वावलोकन";
+"Register" = "रजिस्टर";
+"Donation" = "दान";
+"WhatsApp not installed." = "WhatsApp स्थापित नहीं है";
+"Your device has no WhatsApp installed." = "आपके डिवाइस में कोई WhatsApp स्थापित नहीं है";
+"PAN"="पैन";
+"Click on News letter to read"="पढ़ने के लिए समाचार पत्र पर क्लिक करें";
+
+// HTML Texts

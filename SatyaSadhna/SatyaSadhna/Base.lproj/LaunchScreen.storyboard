@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="loginBg" translatesAutoresizingMaskIntoConstraints="NO" id="haK-uw-Nbh">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="j00-wU-MW8">
+                                <rect key="frame" x="103.5" y="338" width="207" height="220"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="tagImage" translatesAutoresizingMaskIntoConstraints="NO" id="kav-4Z-LVe">
+                                        <rect key="frame" x="0.0" y="170" width="207" height="50"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="50" id="v9h-XS-Hu3"/>
+                                        </constraints>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="ALf-I6-NkV">
+                                        <rect key="frame" x="38.5" y="20" width="130" height="130"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="130" id="5f6-IC-F2k"/>
+                                            <constraint firstAttribute="width" constant="130" id="oQ8-va-Mhl"/>
+                                        </constraints>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="ALf-I6-NkV" firstAttribute="centerX" secondItem="kav-4Z-LVe" secondAttribute="centerX" id="2bM-9d-7px"/>
+                                    <constraint firstAttribute="bottom" secondItem="kav-4Z-LVe" secondAttribute="bottom" id="Aul-7f-l0I"/>
+                                    <constraint firstItem="kav-4Z-LVe" firstAttribute="top" secondItem="ALf-I6-NkV" secondAttribute="bottom" constant="20" id="JrC-oR-M4M"/>
+                                    <constraint firstItem="ALf-I6-NkV" firstAttribute="top" secondItem="j00-wU-MW8" secondAttribute="top" constant="20" id="ORd-pf-MLg"/>
+                                    <constraint firstAttribute="trailing" secondItem="kav-4Z-LVe" secondAttribute="trailing" id="vR4-WX-rWA"/>
+                                    <constraint firstItem="kav-4Z-LVe" firstAttribute="leading" secondItem="j00-wU-MW8" secondAttribute="leading" id="wKG-yg-ekg"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="j00-wU-MW8" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="7Sr-zd-UCH"/>
+                            <constraint firstItem="haK-uw-Nbh" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="NtA-3t-o9u"/>
+                            <constraint firstItem="j00-wU-MW8" firstAttribute="width" secondItem="haK-uw-Nbh" secondAttribute="width" multiplier="0.5" priority="999" id="UZx-NG-j4r"/>
+                            <constraint firstItem="haK-uw-Nbh" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="V6g-Xn-ehW"/>
+                            <constraint firstAttribute="bottom" secondItem="haK-uw-Nbh" secondAttribute="bottom" id="aVh-Nr-qtx"/>
+                            <constraint firstAttribute="trailing" secondItem="haK-uw-Nbh" secondAttribute="trailing" id="v7J-nf-agJ"/>
+                            <constraint firstItem="j00-wU-MW8" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="wRp-oM-DPr"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="0XG-rY-RKF"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.173913043478265" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="loginBg" width="375" height="667"/>
+        <image name="logo" width="130" height="129"/>
+        <image name="tagImage" width="208" height="48"/>
+    </resources>
+</document>
